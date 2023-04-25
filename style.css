@@ -23,7 +23,7 @@ nav ul{
 nav ul li a {
     text-decoration: none;
     font-size: 30px;
-    border-inline: 1px solid black;
+    border-inline: 1px solid white;
     padding: 0 1rem;
     color: rgb(255, 255, 255);
 }
