@@ -31,7 +31,14 @@ header {
 }
 
 section {
-    padding: 1% 0;
+    padding: 2% 0;
+}
+
+section div {
+    padding-left: 3%;
+}
+section ol {
+    padding-left: 3%;
 }
 
 footer {
