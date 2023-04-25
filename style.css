@@ -3,13 +3,15 @@
     padding: 0;
 }
 
-body {
-    width: 95%;
-    margin: 0 auto;
+html {
+    scroll-behavior: smooth;
 }
 
 nav {
-    padding: 2rem 0;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    background: #202020;
 }
 
 nav ul{
@@ -23,11 +25,12 @@ nav ul li a {
     font-size: 30px;
     border-inline: 1px solid black;
     padding: 0 1rem;
-    color: rgb(121, 109, 109);
+    color: rgb(255, 255, 255);
 }
 
 header {
     padding: 5% 0;
+    padding-top: 5rem;
 }
 
 section {
