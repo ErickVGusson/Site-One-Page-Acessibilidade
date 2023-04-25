@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+body {
+    width: 95%;
+    margin: 0 auto;
+}
+
 nav {
     padding: 2rem 0;
 }
@@ -15,5 +20,11 @@ nav ul{
 
 nav ul li a {
     text-decoration: none;
-    font-size: 50px;
+    font-size: 30px;
+    border-inline: 1px solid black;
+    padding: 0 1rem;
+}
+
+header {
+
 }
