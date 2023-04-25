@@ -12,6 +12,7 @@ html {
     position: relative;
 }
 
+
 nav {
     padding: 1rem 0;
     position: fixed;
@@ -34,12 +35,12 @@ nav ul li a {
 }
 
 header {
-    padding: 5% 0;
+    padding: 5% 5px;
     padding-top: 5rem;
 }
 
 section {
-    padding: 2% 0;
+    padding: 2% 5px;
 }
 
 section div {
