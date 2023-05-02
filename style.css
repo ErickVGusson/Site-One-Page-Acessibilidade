@@ -30,6 +30,7 @@ nav {
     position: fixed;
     width: 100%;
     background: #011329;
+    z-index: 99;
 }
 
 nav ul{
@@ -84,6 +85,7 @@ footer {
     text-align: center;
     background: #011329;
     color: white;
+    padding-bottom: 1rem;
 }
 
 @media (width < 800px) {
